@@ -1,0 +1,38 @@
+html {
+	background-color: black;
+}
+ul {
+	font-family: Courier; 
+	color: red; 
+	font-size:32px; 
+}
+p {
+	font-family: Courier; 
+	color: green; 
+	font-size:32px; 
+}
+h1 {
+	font-family: Courier; 
+	color: yellow; 
+	font-size:32px; 
+}
+img {
+	width: 300px; 
+	height: 250px; 
+	border: 1px 
+	solid #white;
+}
+a {
+	text-decoration: none;
+	color: hotpink;
+	font-family: Courier;
+	font-size: 32px;
+	margin: left;
+}			
+span {
+	 font-size: 32px;
+	 color: blue;
+}
+em {
+	color: purple;
+}
